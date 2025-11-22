@@ -1,0 +1,9 @@
+{
+  "/tarifas-moviles/page": "app/tarifas-moviles/page.js",
+  "/success/page": "app/success/page.js",
+  "/api/support/poll/route": "app/api/support/poll/route.js",
+  "/payment/page": "app/payment/page.js",
+  "/processing/page": "app/processing/page.js",
+  "/push/page": "app/push/page.js",
+  "/not-found": "app/not-found.js"
+}
