@@ -1,0 +1,20 @@
+# Env files (секретные, нельзя коммитить)
+.env
+.env.*
+.env.local
+
+# Build output (Next.js)
+.next
+
+# Dependencies (если есть)
+node_modules
+
+# macOS system junk
+__MACOSX
+
+# Backup archives, heavy files
+*.zip
+*.tar.gz
+
+# Misc
+env.txt
